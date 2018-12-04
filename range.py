@@ -1,0 +1,8 @@
+a_range=range(5)
+print(a_range)
+mylist=list(a_range)
+print('list(a_range)',mylist)
+mylist=range(10,-1,-1)
+print(list(mylist))
+mylist=range(10,20,1)
+print(list(mylist))
